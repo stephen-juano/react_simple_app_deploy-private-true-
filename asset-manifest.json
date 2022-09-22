@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stephen-juano/react_simple_app_deploy/static/css/main.d90489c1.css",
+    "main.js": "/stephen-juano/react_simple_app_deploy/static/js/main.58c92b84.js",
+    "index.html": "/stephen-juano/react_simple_app_deploy/index.html",
+    "main.d90489c1.css.map": "/stephen-juano/react_simple_app_deploy/static/css/main.d90489c1.css.map",
+    "main.58c92b84.js.map": "/stephen-juano/react_simple_app_deploy/static/js/main.58c92b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90489c1.css",
+    "static/js/main.58c92b84.js"
+  ]
+}
