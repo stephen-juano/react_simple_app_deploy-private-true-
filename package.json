@@ -1,7 +1,7 @@
 {
   "name": "01tut",
   "version": "0.1.0",
-  "homepage": "https://github.com/stephen-juano/react_simple_app_deploy",
+  "homepage": "https://stephen-juano.github.io/react_simple_app_gh_dp",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
